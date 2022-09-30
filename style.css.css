@@ -60,7 +60,7 @@
 }
 @keyframes spin {
     0% {
-        transform: rotate(1turn);
+        transform: rotate(-1turn);
     }
 }
 
@@ -152,7 +152,7 @@
         right: calc(100% - 30px);
         bottom: 100%;
     }
-    75% {
+    70% {
         right: 0;
         bottom: 100%;
     }
