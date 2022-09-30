@@ -1,5 +1,5 @@
 .ex-1-square {
-    transition: 2s;
+    transition: 3s;
 }
 .ex-1-square:hover {
     background: red;
@@ -137,7 +137,7 @@
     }
 }
 .ex-13-button:hover .ex-13-bottom-white {
-    animation: moveBottomWhiteCompletely 2s linear;
+    animation: moveBottomWhiteCompletely 3s linear;
 }
 @keyframes moveBottomWhiteCompletely {
     0% {
