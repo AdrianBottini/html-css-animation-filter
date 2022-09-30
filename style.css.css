@@ -65,9 +65,9 @@
 }
 
 .ex-11-icon:hover {
-    animation: spinALittleBit 2s linear;
+    animation: nottotalspin 2s linear;
 }
-@keyframes spinALittleBit {
+@keyframes nottotalspin {
     0% {
         transform: rotate(0);
     }
